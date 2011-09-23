@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Fractions</key>
+<dict>
+	<key>Questions1</key>
+	<array>
+		<dict>
+			<key>Choices</key>
+			<array>
+				<string>*2.5</string>
+				<string>3.5</string>
+				<string>6</string>
+				<string>-2</string>
+			</array>
+			<key>Question</key>
+			<string>5/2</string>
+		</dict>
+		<dict>
+			<key>Choices</key>
+			<array>
+				<string>*1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+			</array>
+			<key>Question</key>
+			<string>a</string>
+		</dict>
+	</array>
+	<key>Questions2</key>
+	<array>
+		<dict>
+			<key>Choices</key>
+			<array>
+				<string>*</string>
+				<string></string>
+				<string></string>
+				<string></string>
+			</array>
+			<key>Question</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</dict>
+</plist>
